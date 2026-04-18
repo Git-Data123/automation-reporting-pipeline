@@ -129,12 +129,11 @@ After execution, the pipeline generates:
 
 ## 📊 Dashboard Preview
 
-Includes:
+![Dashboard](images/dashboard.png)
 
-* KPI summary (Revenue, Expenses, Profit)
-* Revenue by Region chart
-* Revenue by Product chart
+![Pipeline Run](images/pipeline_run.png)
 
+![Output Files](images/output_files.png)
 ---
 
 ## 🧠 Technologies Used
