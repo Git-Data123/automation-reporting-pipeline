@@ -1,10 +1,21 @@
-# 📊 Automated Financial Reporting Pipeline
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Automation](https://img.shields.io/badge/Automation-Enabled-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+#📊 Automated Financial Reporting Pipeline
 
 ## 🚀 Overview
 
-This project is an end-to-end automated financial reporting pipeline built with Python. It ingests raw sales data, validates and transforms it, generates structured reports, exports to Excel with dashboards, and sends automated email notifications.
+This project automates the end-to-end financial reporting workflow:
 
-The pipeline is fully automated and can be scheduled using Windows Task Scheduler.
+- Ingests raw CSV data
+- Validates and transforms datasets
+- Computes key financial KPIs
+- Generates formatted Excel reports with charts
+- Sends automated email reports with attachments
+- Logs pipeline execution for traceability
+
+Designed to simulate a real-world data engineering and reporting pipeline.
 
 ---
 
@@ -157,6 +168,16 @@ The pipeline can be scheduled using Windows Task Scheduler to run:
 
 ---
 
+## 🧠 Skills Demonstrated
+
+- Data Engineering (ETL pipeline design)
+- Data Transformation with Pandas
+- Excel Reporting Automation (OpenPyXL)
+- Email Automation (SMTP)
+- Environment Configuration (.env)
+- Logging & Monitoring
+- Automation & Scheduling
+
 ## 📌 Future Improvements
 
 * Add database integration (SQL)
@@ -168,7 +189,9 @@ The pipeline can be scheduled using Windows Task Scheduler to run:
 
 ## 👨‍💻 Author
 
-Your Name
+Darlington Ekeopara  
+- GitHub: https://github.com/Git-Data123  
+- Email: darlingtonekeopara@gmail.com
 
 ---
 

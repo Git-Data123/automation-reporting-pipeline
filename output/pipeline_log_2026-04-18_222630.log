@@ -1,0 +1,30 @@
+2026-04-18 22:26:30,095 - INFO - Starting financial reporting pipeline...
+2026-04-18 22:26:30,096 - INFO - Using input file: C:\Users\Administrator\OneDrive\Desktop\Automation-reporting-project\data\raw\sales_data.csv
+2026-04-18 22:26:30,187 - INFO - Financial report generated successfully.
+2026-04-18 22:26:30,188 - INFO - 
+FINANCIAL REPORT
+================
+
+Total Revenue : 69000
+Total Expenses: 42000
+Total Profit  : 27000
+Total Records : 5
+
+Revenue / Expense / Profit by Region
+------------------------------------
+region  revenue  expenses  profit
+  East    10000      6500    3500
+ North    26000     15500   10500
+ South    15000      9000    6000
+  West    18000     11000    7000
+
+Revenue / Expense / Profit by Product
+-------------------------------------
+ product  revenue  expenses  profit
+Hardware    29000     17500   11500
+Services    18000     11000    7000
+Software    22000     13500    8500
+2026-04-18 22:26:31,886 - INFO - Text report saved to: C:\Users\Administrator\OneDrive\Desktop\Automation-reporting-project\output\financial_report_2026-04-18_222630.txt
+2026-04-18 22:26:31,887 - INFO - Excel report saved to: C:\Users\Administrator\OneDrive\Desktop\Automation-reporting-project\output\financial_report_2026-04-18_222630.xlsx
+2026-04-18 22:26:31,887 - INFO - Email sent to: darlingtonekeopara@gmail.com
+2026-04-18 22:26:31,887 - INFO - Pipeline completed successfully.
